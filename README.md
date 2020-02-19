@@ -1,2 +1,1 @@
-# -Techate_Frontend
-Capston Project
+# techate_frontend
